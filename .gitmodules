@@ -1,0 +1,3 @@
+[submodule "lib/gagaclaw"]
+	path = lib/gagaclaw
+	url = https://github.com/joeIvan2/gagaclaw.git

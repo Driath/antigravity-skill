@@ -1,0 +1,7 @@
+refs/
+node_modules/
+*.log
+__pycache__/
+antigravity
+lib/gagaclaw/node_modules/
+lib/gagaclaw/gagaclaw.json
